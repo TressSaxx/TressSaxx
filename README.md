@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Ariel Wirawan Saputra, students at Wikrama Vocational High School.
+I'm Ariel Wirawan Saputra, students from Wikrama Vocational High School.
 
 ## Things I am passionate about :revolving_hearts:
 
