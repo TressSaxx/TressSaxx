@@ -1,0 +1,23 @@
+# Hey there :wave:
+
+<img src="https://i.pinimg.com/originals/73/1f/c8/731fc87cdb86812c901b1600c69d101b.jpg" alt="lol">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://komarev.com/ghpvc/?username=your-github-TressSaxx&color=green" />
+</p>
+
+## About me
+
+I'm Ariel Wirawan Saputra, students at Wikrama Vocational High School.
+
+## Things I am passionate about
+
+- HTML
+- CSS
+- Phyton
+- PUG
+
+## Get in touch :nail polish:
+
+-Discord ( 𝒯𝓇𝑒𝓈𝓈𝒮𝒶𝓍#6701)
