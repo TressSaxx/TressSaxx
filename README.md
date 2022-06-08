@@ -18,6 +18,6 @@ I'm Ariel Wirawan Saputra, students at Wikrama Vocational High School.
 - Phyton
 - PUG
 
-## Get in touch :nail polish:
+## Get in touch :nailpolish:
 
 -Discord ( 𝒯𝓇𝑒𝓈𝓈𝒮𝒶𝓍#6701)
