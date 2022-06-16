@@ -3,7 +3,9 @@
 <h4 align="center">a Students from SMK WIKRAMA BOGOR</h4>
 </div>
 
-<img src="https://wallpapercave.com/wp/wp3790938.jpg" alt="lol">
+<div align="center">
+<img src="https://th.bing.com/th/id/R.c3309202d4db484b54ef0349c8844555?rik=%2fsN9EnI2g07GZw&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-flustered-gif-1.gif&ehk=1w2d1p8LoQxzhCoS4pPI5Xd7Rme0Sq37MVeqeOrHjjs%3d&risl=&pid=ImgRaw&r=0" alt="lol">
+ </div>
 
 <p align="center"> 
   Visitor count<br>
