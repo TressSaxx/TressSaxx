@@ -1,27 +1,25 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I</h1>
-<h4 align="center">Hi</h4>
-</div>
+<h1 align="center">Hi 👋, I'm Ariel Wirawan Saputra</h1>
+<h3 align="center">Data Analyst / Bussiness Analyst from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<div align="center">
-<img src="https://th.bing.com/th/id/R.c3309202d4db484b54ef0349c8844555?rik=%2fsN9EnI2g07GZw&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-flustered-gif-1.gif&ehk=1w2d1p8LoQxzhCoS4pPI5Xd7Rme0Sq37MVeqeOrHjjs%3d&risl=&pid=ImgRaw&r=0" alt="lol">
- </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TressSaxx&label=Profile%20views&color=0e75b6&style=flat" alt="TressSaxx" /> </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-TressSaxx&color=green" />
-</p>
+- 🔭 I’m currently looking for **job**
 
-## Things I am passionate about :revolving_hearts:
+- 🌱 I’m currently learning **SQL**
 
--HTML
--SQL
--Python
--CSS
--TailWind
--NextJS
+- 📫 How to reach me **arielwirawansautra@gmail.com**
 
-## Get in touch :sparkles: 
 
--Discord (TressSax#6701)
-- Gmail : arielwirawansaputra@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/arielwirawansaputra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arielwirawansaputra" height="30" width="40" /></a>
+ 
+ 
+ [![Ariel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TressSaxx&&theme=xcode)](https://github.com/TressSaxx)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TressSaxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TressSaxx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TressSaxx&show_icons=true&locale=en&theme=tokyonight" alt="TressSaxx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TressSaxx&&theme=tokyonight" alt="TressSaxx" /></p>
