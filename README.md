@@ -14,11 +14,14 @@
 
 ## Things I am passionate about :revolving_hearts:
 
-- HTML
-- CSS
-- Phyton
-- PUG
+-HTML
+-SQL
+-Python
+-CSS
+-TailWind
+-NextJS
 
 ## Get in touch :sparkles: 
 
--Discord ( 𝒯𝓇𝑒𝓈𝓈𝒮𝒶𝓍#6701)
+-Discord (TressSax#6701)
+- Gmail : arielwirawansaputra@gmail.com
