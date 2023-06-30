@@ -16,10 +16,7 @@
 <a href="https://www.linkedin.com/in/arielwirawansaputra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arielwirawansaputra" height="30" width="40" /></a>
  
  
- [![Ariel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TressSaxx&&theme=xcode)](https://github.com/TressSaxx)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TressSaxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TressSaxx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TressSaxx&show_icons=true&locale=en&theme=tokyonight" alt="TressSaxx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TressSaxx&&theme=tokyonight" alt="TressSaxx" /></p>
