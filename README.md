@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ariel Wirawan Saputra</h1>
-<h3 align="center">Data Analyst / Bussiness Analyst from Indonesia</h3>
+<h3 align="center">Junior Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TressSaxx&label=Profile%20views&color=0e75b6&style=flat" alt="TressSaxx" /> </p>
 
-- 🔭 I’m currently looking for **job**
+- 🔭 I’m currently not looking for job  ****
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **arielwirawansautra@gmail.com**
 
