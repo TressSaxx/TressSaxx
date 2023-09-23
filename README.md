@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TressSaxx&label=Profile%20views&color=0e75b6&style=flat" alt="TressSaxx" /> </p>
 
-- 🔭 I’m currently not looking for job  ****
+- 🔭 I’m currently not looking for job  
 
 - 🌱 I’m currently learning **Java**
 
