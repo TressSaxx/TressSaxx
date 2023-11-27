@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **arielwirawansautra@gmail.com**
+- 📫 How to reach me **arielwirawansaputra@gmail.com**
  
  
 
